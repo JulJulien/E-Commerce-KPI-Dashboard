@@ -6,6 +6,10 @@ Interactive Tableau dashboard analyzing e-commerce sales, profit, and regional p
 <img width="1628" height="842" alt="image" src="https://github.com/user-attachments/assets/702eda54-23e7-4ad7-9874-7b8d4a8d4f8b" />
 
 
+
+https://github.com/user-attachments/assets/3219da8f-0ef2-4650-82a3-c5a6f0ca8ed8
+
+
 View on Tableau Public (coming soon)
 https://public.tableau.com/shared/DN6H8S2HC?:display_count=n&:origin=viz_share_link
 
